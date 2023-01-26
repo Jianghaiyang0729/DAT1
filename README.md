@@ -23,7 +23,7 @@ train.py
 
 ### Frame of DAT:
 
-![Frame](./DAT_frame.png)
+![Frame](./DAT_frame.PNG)
 
 ### Results of graph classification:
 
