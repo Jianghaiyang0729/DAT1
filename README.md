@@ -14,7 +14,7 @@ pip install -r requirements.txt
 
 
 
-### NAFS Evaluation
+### DAT Evaluation
 
 To reproduce the results of DAT on the graph classification task, please run the following transcript:
 
